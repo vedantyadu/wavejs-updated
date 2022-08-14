@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans&display=swap');
+
+html, body {
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    background-color: rgb(19, 19, 21);
+}
+
+.wave {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    height: 100%;
+}
+
+.fa-github {
+    font-size: 25px;
+    color: #FA8BFF;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
