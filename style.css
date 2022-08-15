@@ -13,7 +13,7 @@ html, body {
     left: 50%;
     top: 50%;
     transform: translateX(-50%) translateY(-50%);
-    height: 100%;
+    width: 50%;
 }
 
 .fa-github {
